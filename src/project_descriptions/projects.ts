@@ -48,7 +48,7 @@ export const projects: Project[] = [
     githubLink: "https://www.github.com/zliel/get-upcoming-assignments",
   },
   {
-    title: "JLPyT Flaschards",
+    title: "JLPyT Flashcards",
     technologies: ["Python", "PySide6", "CSS", "CSV"],
     description:
       "A desktop application for learning Japanese vocabulary through flashcards. Users can create, edit, and review flashcards with built-in spaced repetition.",
