@@ -13,9 +13,10 @@ export const projects: Project[] = [
       "Redis",
       "Docker",
       "Google Cloud Platform (GCP)",
+      "GitHub Actions",
     ],
     description:
-      "A language learning web application that helps users practice vocabulary through interactive flashcards, grammar lessons, and quizzes. Features spaced repetition and progress tracking.",
+      "A language learning web application that helps users practice vocabulary through interactive flashcards, grammar lessons, and quizzes. Features advanced spaced repetition and progress tracking.",
     coverImage: "/project_imgs/lingua_tile.png",
     githubLink: "www.github.com/zliel/lingua-tile",
     deployedLink: "/",
@@ -50,15 +51,15 @@ export const projects: Project[] = [
     title: "JLPyT Flaschards",
     technologies: ["Python", "PySide6", "CSS", "CSV"],
     description:
-      "A desktop application for learning Japanese vocabulary through flashcards. Users can create, edit, and review flashcards with spaced repetition.",
+      "A desktop application for learning Japanese vocabulary through flashcards. Users can create, edit, and review flashcards with built-in spaced repetition.",
     coverImage: "/project_imgs/jlpyt.png",
     githubLink: "www.github.com/zliel/JLPyTFlashcards",
   },
   {
     title: "Personal Portfolio (this site!)",
-    technologies: ["React", "Tailwind CSS", "Next.js"],
+    technologies: ["React", "TypeScript", "Tailwind CSS", "Next.js", "Vercel"],
     description:
-      "A sleek, modern, and responsive portfolio website to showcase my projects, skills, and experience. Built with React, Next.js, and Tailwind CSS.",
+      "A sleek, modern, and responsive portfolio website to showcase my projects, skills, and experience. Built with React, TypeScript, Next.js, and Tailwind CSS.",
     coverImage: "/project_imgs/portfolio.png",
     githubLink: "www.github.com/zliel/portfolio",
     deployedLink: "/",
