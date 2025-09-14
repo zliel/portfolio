@@ -18,8 +18,8 @@ export const projects: Project[] = [
     description:
       "A language learning web application that helps users practice vocabulary through interactive flashcards, grammar lessons, and quizzes. Features advanced spaced repetition and progress tracking.",
     coverImage: "/project_imgs/lingua_tile.png",
-    githubLink: "www.github.com/zliel/lingua-tile",
-    deployedLink: "/",
+    githubLink: "https://www.github.com/zliel/lingua-tile",
+    deployedLink: "https://linguatile-frontend-338074043400.us-west2.run.app/",
     deployType: "website",
     deployedLinkText: "Live Site",
   },
@@ -29,7 +29,7 @@ export const projects: Project[] = [
     description:
       "A fast and efficient static site generator written in Rust. It converts Markdown files into a complete static website with customizable themes and a flexible CLI.",
     coverImage: "/project_imgs/mark-rs.png",
-    githubLink: "www.github.com/zliel/mark-rs",
+    githubLink: "https://www.github.com/zliel/mark-rs",
     deployedLink: "https://crates.io/crates/mark-rs",
     deployType: "cargo",
     deployedLinkText: "Crates.io",
@@ -45,7 +45,7 @@ export const projects: Project[] = [
     description:
       "A PowerShell script that fetches and upcoming assignments from Canvas and organizes them into a table, emailing it to the user.",
     coverImage: "/project_imgs/get-upcoming-assignments.png",
-    githubLink: "www.github.com/zliel/get-upcoming-assignments",
+    githubLink: "https://www.github.com/zliel/get-upcoming-assignments",
   },
   {
     title: "JLPyT Flaschards",
@@ -53,7 +53,7 @@ export const projects: Project[] = [
     description:
       "A desktop application for learning Japanese vocabulary through flashcards. Users can create, edit, and review flashcards with built-in spaced repetition.",
     coverImage: "/project_imgs/jlpyt.png",
-    githubLink: "www.github.com/zliel/JLPyTFlashcards",
+    githubLink: "https://www.github.com/zliel/JLPyTFlashcards",
   },
   {
     title: "Personal Portfolio (this site!)",
@@ -61,7 +61,7 @@ export const projects: Project[] = [
     description:
       "A sleek, modern, and responsive portfolio website to showcase my projects, skills, and experience. Built with React, TypeScript, Next.js, and Tailwind CSS.",
     coverImage: "/project_imgs/portfolio.png",
-    githubLink: "www.github.com/zliel/portfolio",
+    githubLink: "https://www.github.com/zliel/portfolio",
     deployedLink: "/",
     deployType: "website",
     deployedLinkText: "Live Site",
